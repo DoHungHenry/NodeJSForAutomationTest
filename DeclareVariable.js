@@ -6,3 +6,6 @@ console.log(myVar);
 
 myStr = "my name";
 console.log(myStr);
+
+isTrue = true;
+isFalse = false;
