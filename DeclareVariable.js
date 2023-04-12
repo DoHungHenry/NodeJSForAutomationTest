@@ -1,7 +1,10 @@
-let myVar = 1;
-console.log(myVar);
+// declare
+let myVar = 1; 
 
-myVar = 2.34;
+// redeclare => wrong
+// let myVar = 2; 
+
+myVar = 2.34; // assign value
 console.log(myVar);
 
 myStr = "my name";
