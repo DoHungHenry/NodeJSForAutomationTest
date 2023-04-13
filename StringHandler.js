@@ -28,4 +28,3 @@ console.log(typeof(splitMyNameWithEmpty));
 let splitMyNameWithChar = myName.split("a");
 console.log(splitMyNameWithChar);
 console.log(typeof(splitMyNameWithChar));
-
