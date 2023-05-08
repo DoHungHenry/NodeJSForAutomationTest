@@ -19,3 +19,4 @@ class Person {
 let bi = new Person("bi", 10);
 bi.speak();
 bi.getName();
+bi.getName();
