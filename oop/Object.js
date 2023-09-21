@@ -21,3 +21,5 @@ bi.speak();
 bi.getName();
 bi.getName(); 
 bi.speak();
+
+export default Person;
